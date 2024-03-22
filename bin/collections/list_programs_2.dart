@@ -93,14 +93,6 @@ for(i=3;i<=n;i++){
   print(' ');
   even(n1,n2);
 
-
-
-
-
-
-
-
-
 }
 
 void even(n1,n2){
